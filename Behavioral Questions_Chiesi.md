@@ -1,8 +1,10 @@
 # interview-prep - Chiesi
 
-## "Tell me about yourself" 
+## "Tell me about yourself" -insight into my background and how it aligns Chiesi position
 
-### "Absolutely, I'd be delighted to provide some insight into my background and how it aligns with what you're looking for. I'm Shalini Priya, a seasoned IT professional with a robust track record in leveraging technology to solve complex business problems, particularly within regulated environments like the pharmaceutical industry.
+
+
+### I'm Shalini Priya, a seasoned IT professional with a robust track record in leveraging technology to solve complex business problems, particularly within regulated environments like the pharmaceutical industry.
 
 Over the past 12 years, I've honed my skills in project management, business analysis, and team leadership, with a keen focus on driving organizational success through technology-driven solutions. My experience includes managing cross-functional IT business teams and projects, where I've led initiatives to analyze business requirements, design technology solutions, and ensure optimal system integration and performance, particularly within SAP environments.
 
@@ -11,6 +13,9 @@ In my current role at Corning Incorporated, I've successfully led teams in imple
 What excites me most about this opportunity at Chiesi is the chance to further apply my expertise in managing IT business teams and projects, supporting the analysis and definition of SAP functions and business processes, and driving improvements in business applications to meet evolving needs. I'm particularly drawn to the prospect of collaborating with Chiesi's global IT system owners and contributing to the organization's mission of advancing pharmaceutical innovation.
 
 In terms of qualifications, I bring over 4 years of experience in similar positions within regulated environments, including extensive experience with SAP and other enterprise ERP systems, strong project management skills, and a proven ability to analyze and document business processes. Additionally, I possess strong analytical skills, the ability to interface effectively with diverse stakeholders, and a track record of delivering clear, concise communication on complex technical matters.
+The role of Senior Business Systems Manager at Chiesi aligns closely with my skills and experience, particularly in managing IT business teams and projects, supporting business applications, and analyzing and documenting business processes. I thrive in environments where I can collaborate with stakeholders across departments to identify opportunities for process improvements and drive strategic initiatives that align with organizational goals.
+
+In addition to my technical expertise, I bring a strong focus on leadership, communication, and stakeholder management to the table. I'm committed to fostering a culture of innovation, collaboration, and continuous improvement within organizations, empowering team members to excel and contribute to the success of the business.
 
 I'm genuinely excited about the opportunity to bring my expertise to Chiesi and contribute to the organization's success in solving business problems through technology. I'm confident that my skills and experiences align well with the requirements of the role, and I'm eager to explore how I can make a meaningful impact as part of your team."
 
