@@ -26,3 +26,20 @@ Similarly, in the SD module, I have worked on configuring and optimizing sales a
 In the MM module, I have focused on managing materials management processes such as procurement, inventory management, and logistics. I have utilized SAP's MM module to optimize procurement processes, reduce inventory carrying costs, and ensure timely delivery of materials to support production and sales activities.
 
 Overall, my experience with SAP and other ERP systems in the FI, SD, and MM modules has allowed me to effectively support business processes and drive efficiency within organizations. By leveraging these systems, I have been able to streamline operations, improve data accuracy, enhance decision-making capabilities, and ultimately contribute to the overall success of the business."
+
+## Can you walk us through a recent project you managed, highlighting the challenges you faced and how you addressed them?
+
+### "Absolutely. In my recent role as a Senior IT Project Manager at Corning Incorporated, I led a project to implement an end-to-end SAP ERP solution aimed at improving process efficiency and aligning with the company's strategic goals. The project spanned multiple phases, from initial planning to full implementation, and involved coordinating with cross-functional teams across different departments and geographical locations.
+
+One of the main challenges we faced was managing the complexity of the project scope while ensuring timely delivery and minimal disruption to ongoing operations. With a diverse set of stakeholders and intricate business processes involved, it was crucial to maintain clear communication channels and alignment on project objectives throughout the entire project lifecycle.
+
+To address this challenge, I implemented a robust project management framework that emphasized regular communication, stakeholder engagement, and proactive risk management. We conducted thorough requirements gathering sessions to ensure a comprehensive understanding of business needs and priorities, allowing us to tailor the SAP solution to specific requirements while minimizing scope creep.
+
+Another challenge we encountered was ensuring seamless integration between the new SAP system and existing legacy systems, as well as addressing data migration issues. To mitigate these challenges, we conducted extensive testing and validation exercises, leveraging agile methodologies to iterate quickly and address any issues as they arose.
+
+Furthermore, managing the project amidst the ongoing global pandemic presented additional hurdles, including remote work arrangements and supply chain disruptions. To adapt to these challenges, we leveraged collaborative tools such as Jira Cloud and Microsoft Teams to facilitate virtual meetings, coordinate tasks, and ensure continued progress despite the remote work environment.
+
+Ultimately, by fostering a culture of collaboration, adaptability, and accountability within the project team, we were able to successfully overcome these challenges and deliver the SAP ERP solution on time and within budget. The project resulted in a 20% improvement in process efficiency, demonstrating the tangible impact of our efforts on the organization's operational excellence."
+
+
+Bard Shephard - As part of a Global Information Technology organization, I am leading the Business Systems Group with responsibility for the US Critical Care business operations as well as the operations for the Global Rare Disease business unit. I work broadly with all functional areas including Commercial, Medical, Scientific, Compliance, Finance, and Marketing, to enhance operations through an injection of technology or process improvement. I lead technology evaluations to ensure addressing of business requirements as well as adherence to Global IT Governance.
