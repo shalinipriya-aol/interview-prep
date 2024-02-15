@@ -9,7 +9,13 @@
 Over the past 12 years, I've honed my skills in project management, business analysis, and team leadership, with a keen focus on driving organizational success through technology-driven solutions. My experience includes managing cross-functional IT business teams and projects, where I've led initiatives to analyze business requirements, design technology solutions, and ensure optimal system integration and performance, particularly within SAP environments.
 
 In my current role at Corning Incorporated, I've successfully led teams in implementing end-to-end SAP ERP solutions, resulting in significant process efficiencies and improved business outcomes. I've also fostered a culture of organized, effective project management, aligning with your emphasis on promoting such a culture within Chiesi.
-
+ Data Management
+ Business Intelligence and Analytics
+ ERP
+ Collaboration and Comunication
+ Ruegulatory Compliance
+ Cybersecurity
+ Customer Engagement
 What excites me most about this opportunity at Chiesi is the chance to further apply my expertise in managing IT business teams and projects, supporting the analysis and definition of SAP functions and business processes, and driving improvements in business applications to meet evolving needs. I'm particularly drawn to the prospect of collaborating with Chiesi's global IT system owners and contributing to the organization's mission of advancing pharmaceutical innovation.
 
 In terms of qualifications, I bring over 4 years of experience in similar positions within regulated environments, including extensive experience with SAP and other enterprise ERP systems, strong project management skills, and a proven ability to analyze and document business processes. Additionally, I possess strong analytical skills, the ability to interface effectively with diverse stakeholders, and a track record of delivering clear, concise communication on complex technical matters.
