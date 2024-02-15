@@ -43,3 +43,105 @@ Ultimately, by fostering a culture of collaboration, adaptability, and accountab
 
 
 Bard Shephard - As part of a Global Information Technology organization, I am leading the Business Systems Group with responsibility for the US Critical Care business operations as well as the operations for the Global Rare Disease business unit. I work broadly with all functional areas including Commercial, Medical, Scientific, Compliance, Finance, and Marketing, to enhance operations through an injection of technology or process improvement. I lead technology evaluations to ensure addressing of business requirements as well as adherence to Global IT Governance.
+
+## In your role as a Senior IT Project Manager, how do you ensure alignment between project objectives and overall business goals?
+
+
+### "In my role as a Senior IT Project Manager, ensuring alignment between project objectives and overall business goals is a fundamental aspect of my approach to project management. I employ several strategies to achieve this alignment and ensure that IT initiatives contribute directly to the organization's strategic objectives.
+
+First and foremost, I prioritize close collaboration and communication with key stakeholders across the organization, including business leaders, department heads, and end-users. By actively engaging with stakeholders from the outset of the project, I gain a deep understanding of their priorities, challenges, and strategic objectives.
+
+During the project initiation phase, I work closely with stakeholders to define clear and measurable project objectives that are directly tied to overarching business goals. These objectives serve as the guiding principles throughout the project lifecycle, ensuring that every task and deliverable contributes to the achievement of broader organizational objectives.
+
+I also emphasize the importance of regular progress tracking and reporting, providing stakeholders with transparent visibility into project status, milestones, and key performance indicators (KPIs). This enables stakeholders to assess the impact of the project on business goals and make informed decisions based on real-time data.
+
+Additionally, I actively seek feedback from stakeholders throughout the project lifecycle, soliciting input on project deliverables, milestones, and changes in business priorities. This iterative approach allows for continuous alignment between project objectives and evolving business needs, ensuring that the project remains on track to deliver maximum value to the organization.
+
+Furthermore, I continuously monitor external market trends, industry best practices, and emerging technologies to identify opportunities for innovation and alignment with business goals. By staying abreast of market dynamics and strategic industry developments, I can proactively recommend adjustments to project objectives and strategies to capitalize on emerging opportunities and mitigate potential risks.
+
+Overall, my approach to ensuring alignment between project objectives and overall business goals is rooted in proactive stakeholder engagement, transparent communication, and a commitment to delivering measurable business value through IT initiatives."
+
+## You mentioned fostering a culture of organized, effective project management. Can you elaborate on specific strategies or initiatives you've implemented to promote this culture?
+
+### "Absolutely. Fostering a culture of organized, effective project management is crucial to ensuring the success of complex IT initiatives. Throughout my career as a Senior IT Project Manager, I've implemented several strategies and initiatives to promote this culture and drive positive outcomes for projects and teams.
+
+One key strategy I've employed is the establishment of clear project management frameworks and methodologies tailored to the specific needs of each project and organization. By defining standardized processes, templates, and tools for project planning, execution, and monitoring, I provide project teams with a structured framework to follow, ensuring consistency and alignment with best practices.
+
+Additionally, I emphasize the importance of proactive risk management and mitigation strategies to anticipate and address potential challenges before they escalate into major issues. This includes conducting thorough risk assessments, developing contingency plans, and fostering a culture of open communication and transparency, where team members feel empowered to raise concerns and propose solutions.
+
+Another critical aspect of promoting a culture of effective project management is investing in talent development and mentorship initiatives. I prioritize the professional growth and development of project team members through training programs, knowledge sharing sessions, and mentorship opportunities, empowering them with the skills and confidence needed to excel in their roles.
+
+Furthermore, I encourage a collaborative and cross-functional approach to project management, fostering teamwork, knowledge sharing, and collaboration across departments and disciplines. By breaking down silos and promoting a culture of collaboration, I facilitate the exchange of ideas, insights, and best practices, driving innovation and continuous improvement across project teams.
+
+In addition to these strategies, I actively seek feedback from project team members and stakeholders, soliciting input on project processes, workflows, and areas for improvement. This feedback loop enables me to identify opportunities to refine and optimize project management practices, ensuring that our approach evolves in response to changing business needs and industry trends.
+
+Overall, my approach to fostering a culture of organized, effective project management is grounded in a commitment to continuous improvement, collaboration, and empowerment. By implementing these strategies and initiatives, I've been able to create environments where project teams thrive, delivering exceptional results while adhering to deadlines, budgets, and quality standards."
+"In my role as a Senior IT Project Manager, ensuring alignment between project objectives and overall business goals is a fundamental aspect of my approach to project management. I employ several strategies to achieve this alignment and ensure that IT initiatives contribute directly to the organization's strategic objectives.
+
+First and foremost, I prioritize close collaboration and communication with key stakeholders across the organization, including business leaders, department heads, and end-users. By actively engaging with stakeholders from the outset of the project, I gain a deep understanding of their priorities, challenges, and strategic objectives.
+
+During the project initiation phase, I work closely with stakeholders to define clear and measurable project objectives that are directly tied to overarching business goals. These objectives serve as the guiding principles throughout the project lifecycle, ensuring that every task and deliverable contributes to the achievement of broader organizational objectives.
+
+I also emphasize the importance of regular progress tracking and reporting, providing stakeholders with transparent visibility into project status, milestones, and key performance indicators (KPIs). This enables stakeholders to assess the impact of the project on business goals and make informed decisions based on real-time data.
+
+Additionally, I actively seek feedback from stakeholders throughout the project lifecycle, soliciting input on project deliverables, milestones, and changes in business priorities. This iterative approach allows for continuous alignment between project objectives and evolving business needs, ensuring that the project remains on track to deliver maximum value to the organization.
+
+Furthermore, I continuously monitor external market trends, industry best practices, and emerging technologies to identify opportunities for innovation and alignment with business goals. By staying abreast of market dynamics and strategic industry developments, I can proactively recommend adjustments to project objectives and strategies to capitalize on emerging opportunities and mitigate potential risks.
+
+Overall, my approach to ensuring alignment between project objectives and overall business goals is rooted in proactive stakeholder engagement, transparent communication, and a commitment to delivering measurable business value through IT initiatives."
+
+## How do you approach building and maintaining effective working relationships with both technical and non-technical stakeholders?
+
+### "Building and maintaining effective working relationships with both technical and non-technical stakeholders is a critical aspect of successful project management. Throughout my career as a Senior IT Project Manager, I've developed a comprehensive approach to fostering positive relationships with stakeholders from diverse backgrounds and disciplines.
+
+First and foremost, I prioritize clear and open communication as the foundation of effective stakeholder engagement. I proactively engage with stakeholders at all levels of the organization, taking the time to understand their perspectives, priorities, and concerns. By listening actively and empathetically, I establish trust and credibility, laying the groundwork for productive collaborations.
+
+Additionally, I tailor my communication style and messaging to resonate with the specific needs and preferences of each stakeholder group. For technical stakeholders, I leverage my technical expertise to engage in detailed discussions about project requirements, technical specifications, and implementation strategies. This demonstrates my understanding of their domain and fosters mutual respect and trust.
+
+For non-technical stakeholders, I translate complex technical concepts into clear, accessible language, focusing on the business impact and value proposition of IT initiatives. By highlighting the benefits of technology solutions in terms of improved efficiency, cost savings, and competitive advantage, I ensure that non-technical stakeholders remain engaged and supportive throughout the project lifecycle.
+
+Moreover, I actively seek opportunities to involve stakeholders in key decision-making processes, soliciting their input and feedback on project plans, milestones, and deliverables. By empowering stakeholders to play an active role in shaping project outcomes, I foster a sense of ownership and commitment, driving greater alignment and buy-in across the organization.
+
+In addition to proactive communication, I prioritize relationship-building activities, such as one-on-one meetings, workshops, and team-building exercises. These interactions provide valuable opportunities to deepen connections, build rapport, and foster a collaborative spirit among project stakeholders.
+
+Furthermore, I remain responsive and accessible to stakeholders, addressing their questions, concerns, and feedback in a timely and transparent manner. By demonstrating a genuine commitment to their needs and interests, I cultivate lasting relationships built on mutual respect, trust, and shared goals.
+
+Overall, my approach to building and maintaining effective working relationships with both technical and non-technical stakeholders is grounded in communication, empathy, collaboration, and responsiveness. By prioritizing stakeholder engagement throughout the project lifecycle, I ensure that projects are delivered successfully, with the support and endorsement of key stakeholders."
+
+## How do you approach building and maintaining effective working relationships with both technical and non-technical stakeholders?
+
+
+### "Building and maintaining effective working relationships with both technical and non-technical stakeholders is a critical aspect of successful project management. Throughout my career as a Senior IT Project Manager, I've developed a comprehensive approach to fostering positive relationships with stakeholders from diverse backgrounds and disciplines.
+
+First and foremost, I prioritize clear and open communication as the foundation of effective stakeholder engagement. I proactively engage with stakeholders at all levels of the organization, taking the time to understand their perspectives, priorities, and concerns. By listening actively and empathetically, I establish trust and credibility, laying the groundwork for productive collaborations.
+
+Additionally, I tailor my communication style and messaging to resonate with the specific needs and preferences of each stakeholder group. For technical stakeholders, I leverage my technical expertise to engage in detailed discussions about project requirements, technical specifications, and implementation strategies. This demonstrates my understanding of their domain and fosters mutual respect and trust.
+
+For non-technical stakeholders, I translate complex technical concepts into clear, accessible language, focusing on the business impact and value proposition of IT initiatives. By highlighting the benefits of technology solutions in terms of improved efficiency, cost savings, and competitive advantage, I ensure that non-technical stakeholders remain engaged and supportive throughout the project lifecycle.
+
+Moreover, I actively seek opportunities to involve stakeholders in key decision-making processes, soliciting their input and feedback on project plans, milestones, and deliverables. By empowering stakeholders to play an active role in shaping project outcomes, I foster a sense of ownership and commitment, driving greater alignment and buy-in across the organization.
+
+In addition to proactive communication, I prioritize relationship-building activities, such as one-on-one meetings, workshops, and team-building exercises. These interactions provide valuable opportunities to deepen connections, build rapport, and foster a collaborative spirit among project stakeholders.
+
+Furthermore, I remain responsive and accessible to stakeholders, addressing their questions, concerns, and feedback in a timely and transparent manner. By demonstrating a genuine commitment to their needs and interests, I cultivate lasting relationships built on mutual respect, trust, and shared goals.
+
+Overall, my approach to building and maintaining effective working relationships with both technical and non-technical stakeholders is grounded in communication, empathy, collaboration, and responsiveness. By prioritizing stakeholder engagement throughout the project lifecycle, I ensure that projects are delivered successfully, with the support and endorsement of key stakeholders."
+
+## Can you provide an example of a time when you had to manage a project team with members located in different geographic regions or time zones?
+
+### 
+"Absolutely. In my role as a Senior IT Project Manager, I've had the opportunity to manage several projects with distributed teams spanning different geographic regions and time zones. One particular example that comes to mind is a recent project at Corning Incorporated, where we were tasked with implementing a global SAP ERP solution across multiple business units located in North America, Europe, and Asia-Pacific.
+
+Managing a project team with members located in different geographic regions presented several unique challenges, including coordinating schedules, overcoming language and cultural barriers, and ensuring effective communication and collaboration across diverse time zones.
+
+To address these challenges, I implemented a comprehensive strategy to facilitate seamless coordination and collaboration among team members, regardless of their location. This included establishing clear communication channels and protocols, leveraging technology tools such as video conferencing, instant messaging, and collaboration platforms to facilitate real-time communication and virtual meetings.
+
+Furthermore, I adopted a flexible approach to project scheduling, accommodating the varying work hours and time zones of team members by staggering meeting times, rotating meeting schedules, and utilizing asynchronous communication methods to ensure that all team members had the opportunity to participate and contribute.
+
+Additionally, I placed a strong emphasis on fostering a culture of inclusivity and respect within the project team, recognizing and valuing the diverse perspectives and contributions of team members from different regions and backgrounds. By promoting open dialogue, mutual respect, and shared goals, I cultivated a collaborative team environment where all members felt empowered to contribute their expertise and insights.
+
+Throughout the project lifecycle, I remained proactive and responsive to the needs and challenges of distributed team members, regularly soliciting feedback, addressing concerns, and providing additional support and resources as needed. By demonstrating a genuine commitment to the success and well-being of each team member, I fostered a sense of camaraderie and cohesion that transcended geographic boundaries.
+
+Ultimately, despite the logistical complexities of managing a distributed project team, we were able to successfully deliver the SAP ERP solution on time and within budget, thanks to effective communication, collaboration, and teamwork across all regions."
+
+## How do you stay updated on industry trends and best practices in project management and IT systems integration?
