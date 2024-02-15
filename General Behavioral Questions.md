@@ -1,4 +1,4 @@
-# Behavioural Project Management questions
+
 
 ## How do you foster a culture of responsiveness and quality within your teams to ensure timely delivery of high-quality solutions to business needs?
 
